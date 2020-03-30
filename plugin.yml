@@ -1,0 +1,7 @@
+name: friends
+version: 0.78
+author: TomDalton
+main: de.TomDalton.Main.Main
+commands:
+   friends:
+      description: Grundbefehl, Aufruf des GUI
